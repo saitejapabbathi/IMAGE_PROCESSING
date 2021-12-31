@@ -7,6 +7,7 @@ without changing the name of any folders, run the hiding text in image steganogr
 press 1 to encode
 press 2 to decode
 press 3 to compare the two new images with original image.
+
 **Encoding:**
 
 After pressing 1, enter the image name with extension which is in Original_image folder.
