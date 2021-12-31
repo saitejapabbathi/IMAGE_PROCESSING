@@ -1,3 +1,4 @@
+# IMAGE STEGANOGRAPHY
 ## Steps to run the code: 
 1) Download and install python onto your system on the system you'll use to run the code.The link for downloading python can be found [here](https://www.python.org/downloads/).
 2) Install [VScode](https://code.visualstudio.com/download), follow the installation instruction mentioned in their website.
